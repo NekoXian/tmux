@@ -2,13 +2,9 @@
 
 This is a minimalistic tmux setup made from scratch inspired by Nord Colors with, more or less, everything that you need for everyday use.
 
----
-
 ## Screenshots
 
 ![NekoXian Tmux Configuration](./tmux-config.png)
-
----
 
 ## Prerequisites
 
@@ -17,8 +13,6 @@ This is a minimalistic tmux setup made from scratch inspired by Nord Colors with
 * `git`
 * `curl` (Highly recommended for easy installation)
 * A [Nerd Font](https://www.nerdfonts.com/) set and installed in your terminal (Optional, but it recommended to have)
-
----
 
 ## Installation
 
@@ -80,8 +74,6 @@ Do this if you prefer cloning the repository. *Note: There is no symlinking invo
     cd ..
     rm -rf ~/my-tmux-setup
     ```
----
-
 ## Keybindings
 
 * **Prefix:** `Ctrl+a`
@@ -92,8 +84,6 @@ Do this if you prefer cloning the repository. *Note: There is no symlinking invo
 * **Vertical Split:** `prefix` + `-`
 
 And many more!
-
----
 
 ## Plugins installed
 
@@ -108,8 +98,6 @@ Right of the box, there are plugins ready to be installed:
 7. tmux-pain-control
 
 You can comment these plugins if you don't want to use them.
-
----
 
 ## Reconfiguration
 
