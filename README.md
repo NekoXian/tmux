@@ -1,6 +1,6 @@
 # NekoXian Tmux Configuration
 
-This is a minimalistic tmux setup made from scratch inspired by Nord Colors with, more or less, everything that you need for everyday use.
+This is a minimalistic tmux setup made from scratch inspired by Nord Colors with, more or less, everything that you need for everyday use. Use it as you see fit!
 
 ## Screenshots
 
