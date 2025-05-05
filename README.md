@@ -46,8 +46,8 @@ Do this if you prefer cloning the repository. *Note: There is no symlinking invo
 1.  **Clone the repository:**
     ```bash
     # Clone it anywhere you like
-    git clone [https://github.com/NekoXian/tmux.git](https://github.com/NekoXian/tmux.git) ~/NekoXian-tmux
-    cd ~/NekoXian-tmux
+    git clone [https://github.com/NekoXian/tmux.git](https://github.com/NekoXian/tmux.git) ~/NekoXian-Tmux
+    cd ~/NekoXian-Tmux
     ```
 
 2.  **Create necessary directories:**
@@ -57,10 +57,8 @@ Do this if you prefer cloning the repository. *Note: There is no symlinking invo
 
 3.  **Copy the configuration files (this will overwrite existing files):**
     ```bash
-    echo "Copying .tmux.conf..."
     cp -fv .tmux.conf ~/.tmux.conf
 
-    echo "Copying git_branch.sh..."
     cp -fv scripts/git_branch.sh ~/.tmux/scripts/git_branch.sh
     ```
 
